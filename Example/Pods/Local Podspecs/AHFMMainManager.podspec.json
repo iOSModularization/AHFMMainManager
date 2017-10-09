@@ -1,0 +1,126 @@
+{
+  "name": "AHFMMainManager",
+  "version": "0.1.0",
+  "summary": "A short description of AHFMMainManager.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/ivsall2012/AHFMMainManager",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "ivsall2012": "ivsall2012@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/ivsall2012/AHFMMainManager.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "AHFMMainManager/Classes/**/*",
+  "dependencies": {
+    "AHServiceRouter": [
+
+    ],
+    "AHFMServices": [
+
+    ],
+    "AHFMModuleManager": [
+
+    ],
+    "AHFMDownloaderManager": [
+
+    ],
+    "AHFMAudioPlayerManager": [
+
+    ],
+    "AHFMMainServices": [
+
+    ],
+    "AHFMUserCenter": [
+
+    ],
+    "AHFMUserCenterServices": [
+
+    ],
+    "AHFMUserCenterManager": [
+
+    ],
+    "AHFMFeature": [
+
+    ],
+    "AHFMFeatureServices": [
+
+    ],
+    "AHFMFeatureManager": [
+
+    ],
+    "AHFMCategoryVC": [
+
+    ],
+    "AHFMCategoryVCServices": [
+
+    ],
+    "AHFMCategoryVCManager": [
+
+    ],
+    "AHFMSearchVC": [
+
+    ],
+    "AHFMSearchVCServices": [
+
+    ],
+    "AHFMSearchVCManager": [
+
+    ],
+    "AHFMBottomPlayer": [
+
+    ],
+    "AHFMBottomPlayerManager": [
+
+    ],
+    "AHFMEpisodeListVC": [
+
+    ],
+    "AHFMEpisodeListVCManager": [
+
+    ],
+    "AHFMHistoryVC": [
+
+    ],
+    "AHFMHistoryVCManager": [
+
+    ],
+    "AHFMAudioPlayerVC": [
+
+    ],
+    "AHFMAudioPlayerVCManager": [
+
+    ],
+    "AHFMDownloadList": [
+
+    ],
+    "AHFMDownloadListManager": [
+
+    ],
+    "AHFMDownloadCenter": [
+
+    ],
+    "AHFMDownloadCenterManager": [
+
+    ],
+    "AHFMShowPage": [
+
+    ],
+    "AHFMShowPageManger": [
+
+    ],
+    "AHFMKeywordVC": [
+
+    ],
+    "AHFMKeywordVCManager": [
+
+    ]
+  }
+}
